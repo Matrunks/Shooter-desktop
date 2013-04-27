@@ -1,0 +1,19 @@
+
+Weapons.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Pistola
+  rotate: false
+  xy: 1, 1
+  size: 89, 66
+  orig: 89, 66
+  offset: 0, 0
+  index: -1
+Smg
+  rotate: false
+  xy: 92, 1
+  size: 89, 66
+  orig: 89, 66
+  offset: 0, 0
+  index: -1
